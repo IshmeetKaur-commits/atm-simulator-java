@@ -1,0 +1,17 @@
+# Compiled files
+*.class
+
+# NetBeans / IntelliJ
+nbproject/
+build/
+dist/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database files
+*.sql
