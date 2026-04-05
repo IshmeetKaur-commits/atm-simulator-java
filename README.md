@@ -58,8 +58,6 @@ The system uses five main tables:
 
 ## 📸 Screenshots
 
-> Add your screenshots inside a `screenshots/` folder in your repository and link them like below:
-
 ### 🔑 Login Window
 ![Login](screenshots/login.png)
 
